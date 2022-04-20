@@ -1,5 +1,5 @@
 # Squid-100-Port-Proxy-Script
-
+Edited Version of [CARRYYME Squid-40K-Port-Proxy-Script ](https://github.com/CARRYYME/Squid-40K-Port-Proxy-Script)<br />
 Auto install Squid proxy and 100 Port on.
 
 It is installed as HTTP.
